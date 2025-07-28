@@ -4,7 +4,7 @@ I'm a Bachelor's student in Information Systems at UNESP (Universidade Estadual 
 
 <div>
   <a href="https://beacons.ai/gumierror">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gumierror&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gumierror&show_icons=true&theme=dracula&include_all_commits=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumierror&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
