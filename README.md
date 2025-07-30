@@ -1,5 +1,7 @@
 # Hi! I'm Guilherme Gumiero 👋
 
+### **`RPA Developer`**
+
 I'm a Bachelor's student in Information Systems at UNESP (Universidade Estadual Paulista "Júlio de Mesquita Filho"). Currently, I work as an RPA (Robotic Process Automation) intern developer at Nexum, based in Bauru-SP, where I use technologies like Java, Spring, Selenium, and MySQL. I'm passionate about data science and machine learning, and I plan to pursue a master's degree in this field. In my free time, I enjoy exploring music production and sound engineering as a hobby! 🎶
 
 #
